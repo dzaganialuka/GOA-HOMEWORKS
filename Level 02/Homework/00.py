@@ -1,0 +1,1 @@
+print("Me GOA-Shi swavlis dawyebis shemdeg gavitsani chemi razmis lideri, Nika Shavadze. GOA-shi swavlis dawyebamde ukve vitsnobdi baton Luka Tskhvaradzes da Nika Qobalias.Chemi mizania kidev ufro meti adamiani gavitsno GOA-shi" )
