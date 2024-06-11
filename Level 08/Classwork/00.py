@@ -1,0 +1,8 @@
+print(77 < 88)
+print(99 > 77)
+print(99 >= 77)
+print(77 <= 99)
+print(99 == 99)
+print(77 == 77)
+print("luka" == "Luka")
+print("luka" == "luka")
